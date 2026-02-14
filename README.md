@@ -1,4 +1,4 @@
-# Polkadot Dapp
+# Polkadot Dapp(Zero to Hero)
 
 使用 viem 和 Next.js 构建了一个功能齐全的 dApp，该 dApp 可与 Polkadot Hub 上的智能合约进行交互。
 
