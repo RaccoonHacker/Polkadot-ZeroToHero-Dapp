@@ -11,3 +11,5 @@
 4 通过交易将数据写入区块链。
 
 5 更新一个数字存储到区块链
+
+<img width="1707" height="952" alt="zero to hero" src="https://github.com/user-attachments/assets/df38f48c-657e-4759-913d-64bc4e8639a0" />
